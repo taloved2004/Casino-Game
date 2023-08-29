@@ -14,6 +14,6 @@ to compile:
 -run the command "g++ *.cpp -o casino"
 
 after compile:
--to run the game, run the command "./casino"
+-to run the game, execute the command "./casino"
 
 Enjoy!  And may the odds be ever in your favor!
